@@ -1,0 +1,13 @@
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\bin\Debug\netcoreapp3.1\ACOProjectConsole.exe
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\bin\Debug\netcoreapp3.1\ACOProjectConsole.deps.json
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\bin\Debug\netcoreapp3.1\ACOProjectConsole.runtimeconfig.json
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\bin\Debug\netcoreapp3.1\ACOProjectConsole.runtimeconfig.dev.json
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\bin\Debug\netcoreapp3.1\ACOProjectConsole.dll
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\bin\Debug\netcoreapp3.1\ACOProjectConsole.pdb
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\obj\Debug\netcoreapp3.1\ACOProjectConsole.csprojAssemblyReference.cache
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\obj\Debug\netcoreapp3.1\ACOProjectConsole.AssemblyInfoInputs.cache
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\obj\Debug\netcoreapp3.1\ACOProjectConsole.AssemblyInfo.cs
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\obj\Debug\netcoreapp3.1\ACOProjectConsole.csproj.CoreCompileInputs.cache
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\obj\Debug\netcoreapp3.1\ACOProjectConsole.dll
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\obj\Debug\netcoreapp3.1\ACOProjectConsole.pdb
+D:\dev\workspace\Other\ACOProjectConsole\ACOProjectConsole\obj\Debug\netcoreapp3.1\ACOProjectConsole.genruntimeconfig.cache
